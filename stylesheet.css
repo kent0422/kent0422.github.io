@@ -1,0 +1,21 @@
+h1{
+    text-align:center;
+}
+
+h3{
+    text-align:center;
+}
+
+.intro-social-buttons{
+    text-align:center;
+}
+
+.btn-lg{
+    display:inline-block;
+    margin-top:5px;
+    margin-right:5px;
+}
+
+.clearfix{
+    text-align:center;
+}
